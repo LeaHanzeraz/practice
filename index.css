@@ -3,7 +3,5 @@ style
 head
 
 h1 {
-    font-family: sans-serif; 
-    text-align: center;
-    color: red;
+    color: #FF0000;
 }
